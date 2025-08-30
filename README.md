@@ -1,4 +1,4 @@
-[CNN Face Recognition](https://www.researchgate.net/publication/308944615/figure/fig2/AS:608366896361474@1522057379841/Top-The-CNN-trained-for-the-task-of-full-face-detection-Bottom-The-CNN-trained-for-the.png)
+![CNN Face Recognition](https://www.researchgate.net/publication/308944615/figure/fig2/AS:608366896361474@1522057379841/Top-The-CNN-trained-for-the-task-of-full-face-detection-Bottom-The-CNN-trained-for-the.png)
 
 # 👤 CNN-Based Face Recognition Web App
 
