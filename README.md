@@ -4,7 +4,7 @@
 
 A real-time Face Recognition Web Application built with TensorFlow & Keras. The model is trained on the LFW (Labeled Faces in the Wild) dataset and deployed using Streamlit. Users can upload a face image, and the app predicts the person with confidence scores.
 
-Streamlit Link: ![streamlit link](https://cnn-facerecognition-appdeploymentr3-jj5vug49rqdwmqcgkbnah.streamlit.app)
+Streamlit Link: [streamlit link](https://cnn-facerecognition-appdeploymentr3-jj5vug49rqdwmqcgkbnah.streamlit.app)
 
 ## 📂 Project Structure
 
